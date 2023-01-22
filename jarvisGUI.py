@@ -125,7 +125,7 @@ alphabet = {
     "zee": "z",
     "zebra": "z"
 }
-
+## My contacts to send SMS:
 Omadbek = {
     "Omadbek_account_sid": "SID",
     "Omadbek_auth_token": "TOKEN",
