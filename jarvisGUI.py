@@ -31,9 +31,9 @@ from PyQt5.QtWidgets import *
 from PyQt5.uic import loadUiType
 from jarvisUi import Ui_jarvisUi
 
-MY_EMAIL = "omadbekteshaboyev@yahoo.com"
-MY_PASSWORD = "bojhkbwlsiaxwikg"
-MY_TELEGRAM_PASSWORD = "omadbekteshaboyev"
+MY_EMAIL = "yahoo email"
+MY_PASSWORD = "password"
+MY_TELEGRAM_PASSWORD = "password"
 
 alphabet = {
     "a": "a",
@@ -127,34 +127,34 @@ alphabet = {
 }
 
 Omadbek = {
-    "Omadbek_account_sid": "ACb75b6c479f25486216b47d723c874474",
-    "Omadbek_auth_token": "0dddac9ccebfa4a08bb199699d506610",
-    "Omadbek_twilio_number": "+18597657974",
-    "Omadbek_number": "+998945653215"
+    "Omadbek_account_sid": "SID",
+    "Omadbek_auth_token": "TOKEN",
+    "Omadbek_twilio_number": "NUMBER",
+    "Omadbek_number": "NUMBER"
 }
 Mother = {
-    "Mother_account_sid": "AC677d3932e42708a8d4147d6a0ba7a919",
-    "Mother_auth_token": "b1175af305c5ffc1cce8d9e5f6edfc93",
-    "Mother_twilio_number": "+13392184094",
-    "Mother_number": "+998943857279"
+    "Mother_account_sid": "SID",
+    "Mother_auth_token": "TOKEN",
+    "Mother_twilio_number": "NUMBER",
+    "Mother_number": "NUMBER"
 }
 Father = {
-    "Father_account_sid": "ACa6275721e9de595a580152a3e48c68cd",
-    "Father_auth_token": "8e7f0bae7178d54a007c382e492b32f4",
-    "Father_twilio_number": "+19895142128",
-    "Father_number": "+998945575094"
+    "Father_account_sid": "SID",
+    "Father_auth_token": "TOKEN",
+    "Father_twilio_number": "NUMBER",
+    "Father_number": "NUMBER"
 }
 Abdulla_aka = {
-    "Abdulla_aka_account_sid": "ACc344242e989ac3ecd67e1308e45fcc94",
-    "Abdulla_aka_auth_token": "d9bf4eeef68aff0a383cf76cc37f5805",
-    "Abdulla_aka_twilio_number": "+15733759707",
-    "Abdulla_aka_number": "+998940593733"
+    "Abdulla_aka_account_sid": "SID",
+    "Abdulla_aka_auth_token": "TOKEN",
+    "Abdulla_aka_twilio_number": "NUMBER",
+    "Abdulla_aka_number": "NUMBER"
 }
 Doniyorbek_ukaxon = {
-    "Doniyorbek_ukaxon_account_sid": "AC6603f1f7847c338739f7b411f3e9d195",
-    "Doniyorbek_ukaxon_auth_token": "0c589120b90d2d95ba564ca59cec4c29",
-    "Doniyorbek_ukaxon_twilio_number": "+13082482604",
-    "Doniyorbek_ukaxon_number": "+998939467002"
+    "Doniyorbek_ukaxon_account_sid": "SID",
+    "Doniyorbek_ukaxon_auth_token": "TOKEN",
+    "Doniyorbek_ukaxon_twilio_number": "NUMBER",
+    "Doniyorbek_ukaxon_number": "NUMBER"
 }
 
 engine = pyttsx3.init('sapi5')
